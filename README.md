@@ -1,4 +1,4 @@
-### reholt Portfolio
+### redholt Portfolio
 
 Please see below some projects and links for things I have been working on and messing about with.
 
